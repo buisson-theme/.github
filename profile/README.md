@@ -12,9 +12,9 @@ Flexoki was accessible, and nothing was both.
 [Zed](https://github.com/buisson-theme/buisson-zed) ·
 [VS Code](https://github.com/buisson-theme/buisson-vscode) ·
 [Neovim](https://github.com/buisson-theme/buisson-nvim) ·
-[Ghostty](https://github.com/buisson-theme/buisson-ghostty) ·
-[Kitty](https://github.com/buisson-theme/buisson-kitty) ·
-[Alacritty](https://github.com/buisson-theme/buisson-alacritty) ·
+[Ghostty](https://github.com/buisson-theme/Buisson) ·
+[Kitty](https://github.com/buisson-theme/Buisson) ·
+[Alacritty](https://github.com/buisson-theme/Buisson) ·
 [Obsidian](https://github.com/buisson-theme/buisson-obsidian)
 
 ## Palette
