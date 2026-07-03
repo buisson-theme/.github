@@ -10,13 +10,13 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/buisson-theme/Buisson/main/assets/separator.png" width="100%" alt="" />
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/buisson-theme/Buisson/main/assets/separator.png" width="50%" alt="" />
 
 ## Palette
 
-<img src="https://raw.githubusercontent.com/buisson-theme/Buisson/main/assets/org-palette.png" alt="Buisson palette" />
+<img src="https://raw.githubusercontent.com/buisson-theme/Buisson/main/assets/org-palette.png" alt="Buisson palette" width="70%" />
 
 6 botanical accents: hibiscus · sage · river-moss · slate-sky · thistle · ochre
 
